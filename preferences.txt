@@ -1,0 +1,4 @@
+url to image
+pause duration for user intervention
+duration of mouse movement
+pause between vital actions
